@@ -41,6 +41,4 @@ Here are some ideas to get you started:
 
 ## Visit my Portfolio to discover my Projects ! 👨‍💻
 
-<a href="https://kevinpruvost.github.io/portfolio/" target="_blank">
-  https://kevinpruvost.github.io/portfolio/
-</a>
+[https://kevinpruvost.github.io/portfolio/](https://kevinpruvost.github.io/portfolio/)
