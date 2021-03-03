@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hi there 👋
+
+Welcome on my profile, fellow visitor ! 😁
+
+I'm Kevin, I love programming, especially with C++, C#, Python and JavaScript.
+
+I love working and learning on team projects more than anything. :people_holding_hands:
+
+I like to work in Game Developement, Computer Graphics, Machine Learning and Software Engineering. 
+
+## My Technical Skills 🔧
+
+Languages :
+* C, C++,
+* C#, Bash
+* Python, Haskell,
+* HTML/CSS, JavaScript
+
+Libraries/Softwares:
+* Unity, Unreal Engine 4, Vulkan, GLSL, SFML, SDL
+* Boost, Qt
+* MySQL, ReactJS, Laravel
+* Git/Github/Gitlab
+* Windows, Linux
+* Paint.net
 
 <!--
 **kevinpruvost/kevinpruvost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +38,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Public Projects :man_technologist:
+
