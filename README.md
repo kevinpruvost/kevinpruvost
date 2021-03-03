@@ -14,6 +14,7 @@ Languages :
 * C, C++,
 * C#, Bash
 * Python, Haskell,
+* Kotlin,
 * HTML/CSS, JavaScript
 
 Libraries / Softwares:
