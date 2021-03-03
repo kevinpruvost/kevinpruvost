@@ -4,6 +4,8 @@ Welcome on my profile, fellow visitor ! 😁
 
 I'm Kevin, I love programming, especially with C++, C#, Python and JavaScript.
 
+I'm a Computer Science student currently in my 3rd year of studies, about to get my Bachelor's degree 📜. 
+
 I love working and learning on team projects more than anything. :people_holding_hands:
 
 I like to work in Game Developement, Computer Graphics, Machine Learning and Software Engineering. 
@@ -39,6 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Visit my Portfolio to discover my Projects ! 👨‍💻
+## Visit my Portfolio to discover my Projects (and everything about me) ! 👨‍💻
 
 [https://kevinpruvost.github.io/portfolio/](https://kevinpruvost.github.io/portfolio/)
