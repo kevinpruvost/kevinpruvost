@@ -16,12 +16,12 @@ Languages :
 * Python, Haskell,
 * HTML/CSS, JavaScript
 
-Libraries/Softwares:
+Libraries / Softwares:
 * Unity, Unreal Engine 4, Vulkan, GLSL, SFML, SDL
 * Boost, Qt
 * MySQL, ReactJS, Laravel
 * Git/Github/Gitlab
-* Windows, Linux (Ubuntu / Fedora, Windows Subsystems for Linux)
+* Windows, Linux (Ubuntu / Fedora / Windows Subsystems for Linux)
 * Paint.net
 
 <!--
