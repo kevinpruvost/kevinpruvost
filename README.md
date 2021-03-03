@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 ## Visit my Portfolio to discover my Projects ! 👨‍💻
 
-https://kevinpruvost.github.io/portfolio/
+<a href="https://kevinpruvost.github.io/portfolio/" target="_blank"/>
