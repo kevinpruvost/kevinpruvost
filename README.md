@@ -14,15 +14,14 @@ Languages :
 * C, C++,
 * C#, Bash
 * Python, Haskell,
-* Kotlin,
 * HTML/CSS, JavaScript
 
-Libraries / Softwares:
+Libraries/Softwares:
 * Unity, Unreal Engine 4, Vulkan, GLSL, SFML, SDL
 * Boost, Qt
 * MySQL, ReactJS, Laravel
 * Git/Github/Gitlab
-* Windows, Linux (Ubuntu / Fedora / Windows Subsystems for Linux)
+* Windows, Linux
 * Paint.net
 
 <!--
@@ -40,5 +39,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Public Projects :man_technologist:
+## Visit my Portfolio to discover my Projects ! 👨‍💻
 
+https://kevinpruvost.github.io/portfolio/
