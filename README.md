@@ -21,7 +21,7 @@ Libraries/Softwares:
 * Boost, Qt
 * MySQL, ReactJS, Laravel
 * Git/Github/Gitlab
-* Windows, Linux
+* Windows, Linux (Ubuntu / Fedora, Windows Subsystems for Linux)
 * Paint.net
 
 <!--
