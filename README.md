@@ -9,23 +9,6 @@ I'm a Computer Science student currently in my 3rd year of studies, about to get
 I love working and learning on team projects more than anything. :people_holding_hands:
 
 I like to work in Game Developement, Computer Graphics, Machine Learning and Software Engineering. 
-
-## My Technical Skills 🔧
-
-Languages :
-* C, C++,
-* C#, Bash
-* Python, Haskell,
-* HTML/CSS, JavaScript
-
-Libraries/Softwares:
-* Unity, Unreal Engine 4, Vulkan, GLSL, SFML, SDL
-* Boost, Qt
-* MySQL, ReactJS, Laravel
-* Git/Github/Gitlab
-* Windows, Linux
-* Paint.net
-
 <!--
 **kevinpruvost/kevinpruvost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Visit my Portfolio to discover my Projects (and everything about me) ! 👨‍💻
+## Take a look at my Portfolio to discover my Projects (and everything about me) ! 👨‍💻
 
 [https://kevinpruvost.github.io/portfolio/](https://kevinpruvost.github.io/portfolio/)
