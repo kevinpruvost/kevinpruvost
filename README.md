@@ -17,5 +17,3 @@ I like to work in Game Developement, Computer Graphics, Machine Learning and Sof
     <img src="https://github.com/kevinpruvost/kevinpruvost/blob/main/Screenshot%202021-04-20%20094747.png" href="https://kevinpruvost.github.io/portfolio/" width=800/>
   </a>
 </p>
-
-[https://kevinpruvost.github.io/portfolio/](https://kevinpruvost.github.io/portfolio/)
