@@ -10,7 +10,7 @@ I love working and learning on team projects more than anything. :people_holding
 
 I like to work in Game Developement, Computer Graphics, Machine Learning and Software Engineering. 
 
-## Take a look at my Portfolio to discover my Projects (and everything about me) ! 👨‍💻
+## Take a look at my [Portfolio](https://kevinpruvost.github.io/portfolio/) to discover my Projects (and everything about me) ! 👨‍💻
 
 <p align="center">
   <a href="https://kevinpruvost.github.io/portfolio/" target="_blank">
