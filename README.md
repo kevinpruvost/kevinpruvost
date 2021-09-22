@@ -4,7 +4,7 @@ Welcome on my profile, fellow visitor ! 😁
 
 I'm Kevin, I love programming, especially with C++, C#, Python and JavaScript.
 
-I'm a Computer Science student currently in my 3rd year of studies, about to get my Bachelor's degree 📜. 
+I'm a Computer Science student currently in my 4th year of studies, so I got a Bachelor's degree and I'm about to get my Master's degree 📜. 
 
 I love working and learning on team projects more than anything. :people_holding_hands:
 
