@@ -8,7 +8,7 @@ I'm a Computer Science student currently in my 4th year of studies, so I got a B
 
 I love working and learning on team projects more than anything. :people_holding_hands:
 
-I like to work in Game Developement, Computer Graphics, Machine Learning and Software Engineering. 
+I like to work in Game Developement, Computer Graphics and Software Engineering. 
 
 ## Take a look at my [Portfolio](https://kevinpruvost.github.io/portfolio/) to discover my Projects (and everything about me) ! 👨‍💻
 
